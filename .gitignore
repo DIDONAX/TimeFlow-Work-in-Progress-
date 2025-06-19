@@ -1,0 +1,9 @@
+# macOS and Linux
+.DS_Store
+
+# Node (for later when we add tools)
+node_modules/
+dist/
+.env
+
+# Logs
